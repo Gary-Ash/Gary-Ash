@@ -7,3 +7,6 @@
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) and [macOS](https://www.apple.com/macos/).
 * 🎮 Loves playing [XBox](https://www.xbox.com/en-US/) and [Assassin's Creed](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla?isSso=true&refreshStatus=noLoginData).
+
+![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gary-Ash&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gary-Ash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
