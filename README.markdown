@@ -1,7 +1,7 @@
 <a href="https://iosdev.space/deck/@GaryAsh">  
 <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon" /></a>  
 <a href="https://bsky.app/profile/garyash.bsky.social">
-<img src="./.github/resources/blueskylogo.png" alt="BlueSky"/></a> 
+<img src="./.github/resources/blueskylogo.svg" alt="BlueSky"/></a> 
 <a href="https://twitter.com/garyash_">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> 
 <a href="https://www.linkedin.com/in/gary-ash-93240132/">
